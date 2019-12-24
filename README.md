@@ -1,6 +1,11 @@
-# FirstAng
+# Todo Angular App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21. This Angular App was purely developed for learning purpose and for the reference of beginners to get started.
+
+
+## Production server
+
+Production build of this Angular App has been made and hosted on github pages. Click [here](https://navayuvan-sb.github.io/Todo-Angular-App/) to visit the Application.
 
 ## Development server
 
